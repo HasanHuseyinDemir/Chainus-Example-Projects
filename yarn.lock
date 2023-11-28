@@ -1151,6 +1151,11 @@ caniuse-lite@^1.0.30001541:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001563.tgz#aa68a64188903e98f36eb9c56e48fba0c1fe2a32"
   integrity sha512-na2WUmOxnwIZtwnFI2CZ/3er0wdNzU7hN+cPYz/z2ajHThnkWjNBOpEPP4n+4r2WPM847JaMotaJE3bnfzjyKw==
 
+chainus@0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/chainus/-/chainus-0.0.4.tgz#5a51f8e99d7f2ecaca6234b7dbc302fac8460452"
+  integrity sha512-YoEKQaagC0tMTfWYLyWoA0Y/r2/SqaY7DgWWChbOoPx+z4WN+3zrK3tFytwuFzs5T/plwfkAQPUjkFWAPTEIKQ==
+
 chalk@^2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"

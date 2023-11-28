@@ -1,5 +1,13 @@
-import "./styles.css";
+import { html, Mount } from "chainus";
+import { Counter } from "./Components/counter";
+import { Thanks } from "./Components/thanks";
 
-document.getElementById("app").innerHTML = `
-<h1>Hello JavaScript!</h1>
-`;
+function Main() {
+  return html` <div>
+    <h2>Hello Everyone!</h2>
+    <Counter />
+    <Thanks><i>Chainus</i></Thanks>
+  </div>`;
+}
+
+Mount("#app", Main);
